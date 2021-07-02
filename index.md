@@ -13,12 +13,12 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone")
 
 # Second Milestone
-My second milestone was to turn on the blaclight with the uses of the wiring I had learnt in my first milestone 
+My second milestone was to turn on the blacklight with the uses of the wiring I had learnt in my first milestone. This was kind of contradicting because what I had learnt in the first milestrone was not working so had to had to change the wiring.
 
-[![Third Milestone] [![Endless runner p2](https://res.cloudinary.com/marcomontalbano/image/upload/v1625233285/video_to_markdown/images/youtube--psbLhpZYQrA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/psbLhpZYQrA "Endless runner p2") e"){:target="_blank" rel="noopener"}
+[![Third Milestone] [![Endless runner p2](https://res.cloudinary.com/marcomontalbano/image/upload/v1625233285/video_to_markdown/images/youtube--psbLhpZYQrA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/psbLhpZYQrA "Endless runner p2") e")
 # First Milestone
   
 
-My first milestone was setting up the wires on the board and on the uno circuit 
+My first milestone was setting up the wires on the board and on the uno circuit. When I soldiered the jumper wires I had some diffculty getting it to work, it kept flashing.In the end I had to blacklight.
 
 [![First Milestone][![Endless runner ](https://res.cloudinary.com/marcomontalbano/image/upload/v1624627882/video_to_markdown/images/youtube--uayA6_YEgs4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/uayA6_YEgs4 "Endless runner ")
