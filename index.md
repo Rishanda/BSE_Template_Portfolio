@@ -6,6 +6,8 @@ The Arduino Endless runner
 | Rishanda A | Uncommon prep highschool  | Engineering | Incoming Sophomore 
 
 ![Headstone Image]![20210625_112119](https://user-images.githubusercontent.com/86113342/124282836-426c6f00-db19-11eb-8c5b-2a702ca487bd.jpg)
+![20210702_102120](https://user-images.githubusercontent.com/86113342/124289046-dccfb100-db1f-11eb-9a62-3ec88faa73df.jpg)
+
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
