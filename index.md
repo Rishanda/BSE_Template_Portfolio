@@ -1,12 +1,12 @@
-﻿# Project Name/Title Goes Here
-The Arduino Endless runner 
+﻿# The Arduino Endless runner 
+
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Rishanda A | Uncommon prep highschool  | Engineering | Incoming Sophomore 
 
 ![Headstone Image](https://user-images.githubusercontent.com/86113342/124282836-426c6f00-db19-11eb-8c5b-2a702ca487bd.jpg)
-
+# Code
 <pre>
 <font color="#5e6d03">#include</font> <font color="#434f54">&lt;</font><b><font color="#d35400">LiquidCrystal</font></b><font color="#434f54">.</font><font color="#000000">h</font><font color="#434f54">&gt;</font>
 
