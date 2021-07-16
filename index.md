@@ -5,7 +5,7 @@ The Arduino Endless runner
 |:--:|:--:|:--:|:--:|
 | Rishanda A | Uncommon prep highschool  | Engineering | Incoming Sophomore 
 
-![Headstone Image]![20210625_112119](https://user-images.githubusercontent.com/86113342/124282836-426c6f00-db19-11eb-8c5b-2a702ca487bd.jpg)
+![Headstone Image](https://user-images.githubusercontent.com/86113342/124282836-426c6f00-db19-11eb-8c5b-2a702ca487bd.jpg)
 ![20210702_102120](https://user-images.githubusercontent.com/86113342/124289046-dccfb100-db1f-11eb-9a62-3ec88faa73df.jpg)
 
   
