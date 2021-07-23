@@ -5,7 +5,7 @@
 |:--:|:--:|:--:|:--:|
 | Rishanda A | Uncommon prep highschool  | Engineering | Incoming Sophomore 
 
-![Headstone Image]![Screenshot (4)](https://user-images.githubusercontent.com/86113342/125964313-cc148575-bbb6-40a7-8108-a31bc2ad6969.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/86113342/125964313-cc148575-bbb6-40a7-8108-a31bc2ad6969.png)
 
 # Code
 <pre>
