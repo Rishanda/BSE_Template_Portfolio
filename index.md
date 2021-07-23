@@ -455,7 +455,7 @@ code pitch.h
 # Third Milestone
 My final milestone is to add sound to the game so everytime it jump it makes a sound making it something like Mario . 
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone")
+[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1627050493/video_to_markdown/images/youtube--PFO560KGsw0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/PFO560KGsw0 "Endless runner p3")
 
 # Second Milestone
 My second milestone was to turn on the blacklight with the uses of the wiring I had learnt in my first milestone. This was kind of contradicting because what I had learnt in the first milestrone was not working so had to had to change the wiring.
